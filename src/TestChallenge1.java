@@ -7,7 +7,7 @@ public class TestChallenge1 {
 
 	public static void main(String[] args) {
 		// TODO Load a default map 
-		// TODO Create a Squarebot and have it place beepers at the corners of a rectangle
+		// TODO Instantiate a Squarebot and have it place beepers at the corners of a rectangle
 		//   	with bottom right corner at (9, 3) and sized for 5 beepers on each side (see picture)
 		// TODO Create a Sentry and have it patrol clockwise around the beepers, indefinitely
 	}
